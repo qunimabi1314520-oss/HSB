@@ -1,3 +1,4 @@
+<img width="1440" height="1920" alt="m" src="https://github.com/user-attachments/assets/e57a433d-1804-4174-8fa6-d3cea0120dac" />
 # 个人实用硬核资源与工具库 🚀
 
 > 这里记录我日常整理的实用工具、冷门网站和优质学习资源，持续更新。
